@@ -1,0 +1,37 @@
+PitchCanvas End User License Agreement
+
+This End User License Agreement ("Agreement") is a legal agreement between Pontaku Audio ("Developer") and the end user ("User") of the PitchCanvas software, including updates and accompanying documentation (collectively, the "Software"). By installing or using the Software, the User agrees to be bound by the terms of this Agreement. If the User does not agree with the terms, the Software may not be used.
+
+1. Grant of License
+Developer grants the User a non-transferable, non-exclusive license to install and use one copy of the Software on up to three computers owned or controlled by the User, provided the Software is not used on more than one computer simultaneously.
+
+2. Ownership Rights
+All intellectual property rights in and to the Software remain with the Developer. This Agreement does not transfer any ownership rights. Any musical works or other creative output produced using the Software remain the property of the User.
+
+3. Restrictions
+The User shall not:
+- Sell, transfer, sublicense, lend, or pledge the Software, except as expressly permitted in this Agreement.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+- Copy, modify, or create derivative works of the Software except for installation purposes permitted above.
+- Remove or alter copyright notices, trademarks, or other proprietary marks contained within the Software or documentation.
+- Use the Software for any unlawful or unethical purpose.
+
+4. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, OR NON-INFRINGEMENT. The User assumes all risks arising from use of the Software.
+
+5. Limitation of Liability
+In no event shall Developer be liable for any direct, indirect, incidental, consequential, or special damages, including without limitation loss of profits or data, arising out of the use or inability to use the Software. If liability is imposed despite the foregoing, the total liability of Developer shall not exceed the amount actually paid by the User for the Software.
+
+6. Refund Policy
+Because the Software is delivered digitally, all sales are final. Refunds will not be provided unless required by applicable law.
+
+7. Termination
+Developer may terminate this Agreement immediately upon notice if the User breaches any provision herein. Upon termination, the User must cease all use of the Software and destroy all copies in their possession or control.
+
+8. Governing Law and Jurisdiction
+This Agreement is governed by and construed in accordance with the laws of Japan. Any disputes arising out of or in connection with this Agreement shall be submitted to the exclusive jurisdiction of the Tokyo District Court.
+
+9. Severability
+If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+Last Updated: September 6, 2026

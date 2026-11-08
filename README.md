@@ -13,7 +13,7 @@ This is an experimental REAPER extension. Pitch Canvas and your instruments are 
 
    `https://raw.githubusercontent.com/PontakuAudio/PitchCanvas-Extension-Adaptive-Precision/main/index.xml`
 
-3. In **Browse packages**, search **Adaptive Precision**, select the row, then choose **Actions → Install v0.11.0-pre1** (or a newer version) and **Apply**.
+3. In **Browse packages**, search **Adaptive Precision**, select the row, then choose **Actions → Install v0.11.0-pre2** (or a newer version) and **Apply**.
 4. **Restart REAPER**. In Actions, run **Pitch Canvas Extension — Adaptive Precision**.
 5. Put Pitch Canvas and a supported VST3 instrument on the same track. Turn precision **On**, or select an instrument and use **Compare** before deciding. Save the project to retain the applied settings.
 

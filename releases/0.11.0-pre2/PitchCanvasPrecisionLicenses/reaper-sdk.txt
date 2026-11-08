@@ -1,0 +1,11 @@
+// REAPER SDKのC ABIから必要な宣言だけを抜粋。SWELLのUIには依存しない。
+// Adapted from https://github.com/justinfrankel/reaper-sdk/sdk/reaper_plugin.h
+// Copyright (C) 2006-2015, Cockos Incorporated
+// This software is provided 'as-is', without any express or implied warranty.
+// In no event will the authors be held liable for any damages arising from its use.
+// Permission is granted to anyone to use this software for any purpose, including
+// commercial applications, and to alter it and redistribute it freely, subject to:
+// 1. The origin must not be misrepresented; do not claim you wrote the original.
+// 2. Altered versions must be plainly marked as such.
+// 3. This notice may not be removed or altered from any source distribution.
+
