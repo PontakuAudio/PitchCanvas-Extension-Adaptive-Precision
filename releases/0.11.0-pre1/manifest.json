@@ -1,0 +1,26 @@
+{
+  "version": "0.11.0-pre1",
+  "productVersion": "0.11.0",
+  "source": "f289f12b03cc5f07567c746ad22135b9f36aac9f",
+  "tag": "reaper-precision-v0.11.0-pre1",
+  "index": "https://raw.githubusercontent.com/PontakuAudio/PitchCanvas-Extension-Adaptive-Precision/main/index.xml",
+  "experimental": true,
+  "publishable": true,
+  "macNotarization": null,
+  "files": {
+    "PitchCanvasPrecision/Adaptive Precision.lua": "34c27c6bede3edb47f194897de64b7f5d034fc1159160d7d1560eeefee58dae7",
+    "PitchCanvasPrecision/PrecisionCheck.lua": "1b2523068170c27cbf4dd69b462abbb5282a1cf4433a66a7709ffa86899d7834",
+    "PitchCanvasPrecision/README.txt": "d2f5c7f3f524a4fc6dd624591c7a9587a55cfefba18f116fc988b78a152d8658",
+    "PitchCanvasPrecisionLicenses/EULA_en.txt": "1ef2d0fe93bb661de780088bb8998f78efcfdad83c65289628532b8e1891b1f0",
+    "PitchCanvasPrecisionLicenses/EULA_ja.txt": "e3c0a691238eeb5b57b69db1290e0caa2e9a104f7c567d287bf12679cf651ea9",
+    "PitchCanvasPrecisionLicenses/fishhook.txt": "0d6de56134ac05ffce391c697bb046c83cab012a4670114e1f0847ecf59b2c2e",
+    "PitchCanvasPrecisionLicenses/reaper-sdk.txt": "a7bdc58c925e52bc9cb1b184a9ce980d93c211a15523d9ad50ca67f9c098e705",
+    "PitchCanvasPrecisionLicenses/vst3.txt": "d6115b263faa1cdf8c7372d70889c833dde1cec95252e7ee93e4f7d599ec96ca",
+    "reaper_pitchcanvas_precision.dll": "66d84e39f4d8e18581969b6d3056723a5d1cf2e119476951eab5c62666f4ec27",
+    "reaper_pitchcanvas_precision.dylib": "2df0a5865c5b3224197166b596dc95031e16b71c0000255c019fcfcc88059dfe"
+  },
+  "inputs": {
+    "macOS": "ba3b4e7267afcaffbae5ac1d79af85e9c2f54e579e342483a5ef2dc48e2ac7f4",
+    "Windows": "7a26f3f197342d3694ff970aeedef88912cd485287fc34f5460e90a868af4fbf"
+  }
+}
